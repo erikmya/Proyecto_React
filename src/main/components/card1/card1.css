@@ -1,0 +1,30 @@
+.container-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  overflow: auto;
+  gap: 0.8em;
+  padding: 2.5em;
+}
+
+.description {
+  display: flex;
+  align-items: center;
+  min-width: 200px;
+}
+
+.input {
+  display: flex;
+  align-items: start !important;
+  width: 100%;
+}
+
+.input-p {
+  padding: 1px 0;
+}
+
+.output {
+  display: flex;
+  align-items: start !important;
+  width: 100%;
+}

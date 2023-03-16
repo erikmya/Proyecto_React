@@ -1,0 +1,25 @@
+.cards {
+  display: flex;
+  flex-direction: row;
+  gap: 1em;
+}
+
+.card-style {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding: 0.5em;
+}
+
+.btnone {
+  padding: 6.5em 0 0 0 !important;
+}
+
+.btntwo {
+  padding: 7.8em 0 0 0 !important;
+}
+
+li {
+  padding: 0.5em;
+  gap: 10px
+}
